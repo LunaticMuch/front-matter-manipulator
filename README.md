@@ -5,6 +5,7 @@
 ## Getting Started
 
 This utility can be used as a Command Line Interface, or as an import in your scripts.
+The node package is now pure ESM. Consider this when using your package because you might need a suitable version of typescript or node.
 
 It has two primary uses:
 
