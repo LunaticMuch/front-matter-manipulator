@@ -1,6 +1,6 @@
 {
   "name": "@lunaticmuch/front-matter-manipulator",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "A utility for parsing and manipulating documents with Front Matter",
   "directories": {
     "lib": "lib"
@@ -44,5 +44,15 @@
     "testEnvironmentOptions": {
       "url": "http://localhost/"
     }
-  }
+  },
+  "keywords": [
+    "markdown",
+    "front matter",
+    "frontmatter",
+    "editor",
+    "manipulating",
+    "manipulator",
+    "read",
+    "write"
+  ]
 }
