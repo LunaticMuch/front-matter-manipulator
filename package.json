@@ -44,5 +44,15 @@
     "testEnvironmentOptions": {
       "url": "http://localhost/"
     }
-  }
+  },
+  "keywords": [
+    "markdown",
+    "front matter",
+    "frontmatter",
+    "editor",
+    "manipulating",
+    "manipulator",
+    "read",
+    "write"
+  ]
 }
